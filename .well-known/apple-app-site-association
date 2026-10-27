@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["9694HBAVCX.com.jgodeyne.StreamPilot"],
+        "components": [
+          { "/": "/streampilot-auth/oauth/callback*" }
+        ]
+      }
+    ]
+  }
+}
